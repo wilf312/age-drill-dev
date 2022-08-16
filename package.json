@@ -30,7 +30,7 @@
     "@types/styled-components": "5.1.26",
     "@typescript-eslint/eslint-plugin": "5.33.1",
     "@typescript-eslint/parser": "5.33.1",
-    "cypress": "10.5.0",
+    "cypress": "10.6.0",
     "date-fns": "2.29.1",
     "eslint": "8.22.0",
     "start-server-and-test": "1.14.0",
